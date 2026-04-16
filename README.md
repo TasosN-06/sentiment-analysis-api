@@ -1,15 +1,15 @@
-# ?? Sentiment Analysis API
+#  🤖  Sentiment Analysis API Sentiment Analysis API
 
 A production-ready REST API for sentiment analysis, built with **FastAPI** and served via **Docker**.
 
-## ??? Tech Stack
+## 🛠️ Tech Stack
 
-- **FastAPI** � Modern Python web framework
-- **HuggingFace Transformers** � distilbert-base-uncased-finetuned-sst-2-english
-- **Docker & Docker Compose** � Containerized deployment
-- **Uvicorn** � ASGI server
+- **FastAPI** — Modern Python web framework
+- **HuggingFace Transformers** — distilbert-base-uncased-finetuned-sst-2-english
+- **Docker & Docker Compose** — Containerized deployment
+- **Uvicorn** — ASGI server
 
-## ?? Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
@@ -22,7 +22,7 @@ docker-compose up --build
 
 The API will be available at http://localhost:8000
 
-## ?? Endpoints
+## 📡 Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -39,10 +39,10 @@ Response:
 {"text": "I love this so much!", "label": "POSITIVE", "score": 0.9999}
 `
 
-## ?? Interactive Docs
+## 📖 Interactive Docs
 
 Swagger UI available at: http://localhost:8000/docs
 
-## ?? Author
+## 👤 Author
 
-Made by Tasos Nikolopoulos � learning Docker as an AI Engineer ??
+Made by Tasos Nikolopoulos — learning Docker as an AI Engineer ??
