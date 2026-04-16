@@ -1,4 +1,4 @@
-#  🤖  Sentiment Analysis API Sentiment Analysis API
+#  🤖  Sentiment Analysis API
 
 A production-ready REST API for sentiment analysis, built with **FastAPI** and served via **Docker**.
 
